@@ -1,4 +1,4 @@
-import Image from "next/image";
+Import Image from "next/image";
 
 export default function Home() {
   return (
@@ -8,6 +8,7 @@ export default function Home() {
           Get started by editing&nbsp;
           <code className="font-mono font-bold">src/app/page.tsx</code>
         </p>
+
 
 
       </div>
