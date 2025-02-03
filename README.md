@@ -6,6 +6,8 @@
   </picture>
  </div>
 
+blabla
+
 <div align="center">
 
 [![Join our community](https://img.shields.io/discord/1024296197575422022?style=social&label=Join%20our%20community%20&logo=discord&labelColor=6A7EC2)](https://discord.gg/uc9H5YKjXv)
