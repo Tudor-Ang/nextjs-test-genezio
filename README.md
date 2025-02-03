@@ -12,6 +12,7 @@
 [![Follow @geneziodev](https://img.shields.io/twitter/url/https/twitter.com/geneziodev.svg?style=social&label=Follow%20%40geneziodev)](https://twitter.com/geneziodev)
 
 </div>
+test
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -36,23 +37,23 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 # Deploy
+
 :rocket: You can deploy your own version of the template to Genezio with one click:
 
 [![Deploy to Genezio](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://app.genez.io/start/deploy?repository=https://github.com/Genez-io/nextjs-getting-started)
-
 
 ## Genezio CLI Commands
 
 Genezio also provides a CLI tool that you can use to deploy your project from your machine.
 All commands are run from the root of the project, from a terminal:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install -g genezio`  | Installs genezio globally                        |
-| `genezio login`           | Logs in to genezio                               |
-| `genezio local`           | Starts a local server                            |
-| `genezio deploy`          | Deploys a production project                     |
-| `genezio --help`          | Get help using genezio                           |
+| Command                  | Action                       |
+| :----------------------- | :--------------------------- |
+| `npm install -g genezio` | Installs genezio globally    |
+| `genezio login`          | Logs in to genezio           |
+| `genezio local`          | Starts a local server        |
+| `genezio deploy`         | Deploys a production project |
+| `genezio --help`         | Get help using genezio       |
 
 ## Learn more
 
@@ -78,7 +79,7 @@ If you need support or you have any questions, please join us in our [Discord ch
 - [Node.JS](https://nodejs.org/en/)
 - [Next.js](https://nextjs.org/)
 
-***
+---
 
 <div align="center"> <a href="https://genezio.com/">
   <p>Built with Genezio with ❤️ </p>
